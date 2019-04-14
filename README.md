@@ -18,3 +18,5 @@ Try different models in predicting scores based on the input factors.
    - test preparation course = 'completed'
    - parental education level = 'bachelors/masters degree'
    - race/ethnic_group = 'E'
+![alt text](https://github.com/sharath0426/Kaggle-Student-Scores/blob/master/Scores_education.PNG)
+![alt text](https://github.com/sharath0426/Kaggle-Student-Scores/blob/master/Scores_Test.PNG)
